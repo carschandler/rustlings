@@ -18,6 +18,7 @@
 // - The output element is going to be a Vector of strings.
 // No hints this time!
 
+// TODO: TRY WITH &str INSTEAD
 
 pub enum Command {
     Uppercase,
